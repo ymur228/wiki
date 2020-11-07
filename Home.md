@@ -1,7 +1,7 @@
 ### Welcome to the Erupe wiki!
 1. [What is Erupe?](#what-is-erupe)
 2. [Why "Erupe"](#why-erupe)
-3. [How stable/functional is it?](#how-stable-functional-is-it)
+3. [How stable/functional is it?](#how-stablefunctional-is-it)
 4. [Installation](#installation)
 5. [Where do I get the client files and quest files?](#where-do-I-get-the-client-files-and-quest-files)
 
