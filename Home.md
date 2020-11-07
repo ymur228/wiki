@@ -17,7 +17,7 @@ Despite what some people think, this project is actually as a homage to famous K
 This server has zero stability/functionality promises. It will crash, it has zero security measures, and it does not implement _many_ things.
 
 ### Installation
-See the [Installation] page for detailed installation instructions.
+See the [Installation](Installation) wiki page for detailed installation instructions.
 
 ### Where do I get the client files and quest files?
 No client or quest binaries for the game will be shared/linked from this project, without exception.
